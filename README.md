@@ -1,6 +1,6 @@
 # E-commerce Shoes website(SNK-HUB)
 
-Welcome to the E-Commerce Shoes website (SNK-HUB) projrct. This is a simple website showcasing a collection of shoes available for purchase with Selenium testing. The website is built using HTML,CSS,JavaScript, and Python for testing.
+Welcome to the E-Commerce Shoes website (SNK-HUB) projrct. This is a simple website showcasing a collection of shoes available for purchase. The website is built using HTML,CSS,JavaScript.
 
 ## Screenshots
 **Login Page**
@@ -19,13 +19,6 @@ Welcome to the E-Commerce Shoes website (SNK-HUB) projrct. This is a simple webs
 
 ![Screenshot 2024-12-04 104648](https://github.com/user-attachments/assets/acbf5327-1f9a-415f-9a0b-ca45f002d71d)
 
-**Terminal Output**
-
-![Screenshot 2024-12-04 104706](https://github.com/user-attachments/assets/89267625-b216-4bb6-a49f-823b5bda2865)
-
-**Excel Report**
-
-![Screenshot 2024-12-04 104719](https://github.com/user-attachments/assets/c208d3ae-63a6-49a5-9b14-862ce6d9fd79)
 
 # Server
 * Django
@@ -38,8 +31,7 @@ npm run dev
 python manage.py runserver
 
 
-# Selenium Testing
-python tests.py
+
   
 
 
