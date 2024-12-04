@@ -32,21 +32,14 @@ Welcome to the E-Commerce Shoes website (SNK-HUB) projrct. This is a simple webs
 * React
 * SQLite
 
-# Run
-python-m venv env
+# Run (Frontend && backend)
+npm run dev
 
-pip install django
+python manage.py runserver
 
-django-admin startproject fullstack_project
 
 # Selenium Testing
-cd fullstack_project
-
-python mangae.py startapp fullstack
-
-python manage.py makemigrations
-
-python manage.py migrate
+python tests.py
   
 
 
